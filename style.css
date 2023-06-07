@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url(images/clock.jpg);
+    
+}
+div {
+  display: flex;
+  float: right;
+  margin-right: 9%;
+  margin-top: 18%;
+  text-align: center;
+}
+h1{
+color: rgb(197, 119, 16);
+}
