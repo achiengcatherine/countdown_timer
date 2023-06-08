@@ -5,13 +5,19 @@
     background-image: url(images/clock.jpg);
     
 }
-div {
+.header {
   display: flex;
+  flex-direction: column;
   float: right;
   margin-right: 9%;
   margin-top: 18%;
   text-align: center;
+  
 }
 h1{
 color: rgb(197, 119, 16);
+}
+#birthday{
+  font-size: 30px;
+  padding-top: 15px;
 }
